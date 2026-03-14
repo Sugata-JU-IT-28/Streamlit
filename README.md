@@ -49,8 +49,8 @@ The application uses `startup_cleaned.csv`, which contains startup funding data 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sugata-JU-IT-28/Streamlit.git
+cd Streamlit
 ```
 
 2. Install the required libraries:
@@ -62,7 +62,7 @@ pip install streamlit pandas matplotlib
 3. Run the Streamlit app:
 
 ```bash
-streamlit run app-2.py
+streamlit run app.py
 ```
 
 4. Open the local URL shown in the terminal, usually:
