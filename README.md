@@ -39,7 +39,7 @@ The application uses `startup_cleaned.csv`, which contains startup funding data 
 
 ```bash
 .
-├── app-2.py
+├── app.py
 ├── startup_cleaned.csv
 └── README.md
 ```
